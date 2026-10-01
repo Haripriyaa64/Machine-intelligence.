@@ -1,0 +1,22 @@
+
+# Data processing
+numpy
+pandas
+
+# Machine learning
+scikit-learn
+joblib
+matplotlib
+
+# IoT communication
+paho-mqtt
+
+# Configuration
+python-dotenv
+
+# Backend API
+fastapi
+uvicorn[standard]
+
+# Testing
+pytest
